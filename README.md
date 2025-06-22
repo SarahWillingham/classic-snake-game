@@ -1,7 +1,6 @@
 # 🐍 Snake Game (Python Turtle)
 
-A classic Snake game built in Python using the `turtle` graphics module. This project is a simple but fun implementation
-that lets players control a growing snake to eat food, avoid walls, and prevent collisions with its own tail.
+A classic Snake game built in Python using the `turtle` graphics module. This project is a simple but fun implementation that lets players control a growing snake to eat food, avoid walls, and prevent collisions with its own tail.
 
 ## Features
 - Smooth snake movement using the arrow keys
@@ -37,14 +36,7 @@ snake_game/
     python main.py
     
 ## Controls
-Arrow Up — Move up
-Arrow Down — Move down
-Arrow Left — Move left
-Arrow Right — Move right
+Arrow Up — Move up, Arrow Down — Move down, Arrow Left — Move left, Arrow Right — Move right
 
 ## Ideas for Future Improvements
-Pause/resume functionality
-Sound effects
-Difficulty settings
-Obstacle generation
-Smoother 180 turns
+Pause/resume functionality, Sound effects, Difficulty settings, Obstacle generation, Smoother 180 turns
