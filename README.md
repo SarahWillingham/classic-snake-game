@@ -14,12 +14,12 @@ A classic Snake game built in Python using the `turtle` graphics module. This pr
 
 ## Project Structure
 snake_game/
-├── main.py # Main game loop and logic
-├── snake_class.py # Snake behavior and movement
-├── food.py # Food generation
-├── score_board.py # Score tracking and display
-├── README.md # This file
-└── .gitignore # Recommended .gitignore
+-├── main.py # Main game loop and logic
+-├── snake_class.py # Snake behavior and movement
+-├── food.py # Food generation
+-├── score_board.py # Score tracking and display
+-├── README.md # This file
+-└── .gitignore # Recommended .gitignore
 
 
 ## Requirements
